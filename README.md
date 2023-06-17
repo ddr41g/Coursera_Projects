@@ -5,3 +5,4 @@
                 Exploratory vs Confirmatory data analysis using Python.
                 Data Analysis using Panadas in Python.
                 Data Visualization using Matplotlib and Seaborn in Python.
+                Intoduction to Docker, Building a Portfolio.
