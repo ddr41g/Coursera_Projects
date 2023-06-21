@@ -7,4 +7,4 @@
                 Data Visualization using Matplotlib and Seaborn in Python.
                 Intoduction to Docker, Building a Portfolio.
                 Mining Quality Prediction Using Machine Learning and Deep Learning.
-                Decryption using Python
+                Decryption using Python (Caesar, Fernet, RSA)
