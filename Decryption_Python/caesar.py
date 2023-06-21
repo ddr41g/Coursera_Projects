@@ -10,6 +10,7 @@ def decrypt_ciphertext(ciphertext,key):
 			alphabet=string.ascii_lowercase
 		else:
 			plaintext+=c
+			continue
 		
 		position=alphabet.find(c)
 		shift_position=(position-int(key))%26
